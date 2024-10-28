@@ -61,7 +61,7 @@ Each module follows a structure that facilitates integration and evolution withi
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE), allowing open and flexible use of Crudzaso’s code and applications.
+pending...
 
 ---
 
