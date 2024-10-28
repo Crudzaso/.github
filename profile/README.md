@@ -45,7 +45,7 @@ Each module follows a structure that facilitates integration and evolution withi
 
 ### Prerequisites
 
-- **PHP** (>=8.2)
+- **PHP** (8.2)
 - **Composer** (for dependency management)
 - **Node.js** (pending)
 - **NPM**
